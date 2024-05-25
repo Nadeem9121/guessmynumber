@@ -1,0 +1,11 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "Guess my number game!",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M Nadeem Ashraf",
+  "license": "ISC"
+}
